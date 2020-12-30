@@ -1,5 +1,5 @@
 #!python3
-# this is sample is copied from
+# this sample is copied from
 # https://stackoverflow.com/questions/34954040/chapter-7-automate-the-boring-stuff-with-python-practice-project-regex-versio
 
 import re
