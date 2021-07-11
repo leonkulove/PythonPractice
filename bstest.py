@@ -21,5 +21,5 @@ for Country in Countries:
 print("國家:", Mycountry)
 print("都市:", Mycity)    	
 
-data = dict(zip(Mycountry, Mycity))  #zip是將兩個lists個拉一個值互相結合
+data = dict(zip(Mycountry, Mycity))  #zip是將兩個lists各拉一個值互相結合
 print(data)
